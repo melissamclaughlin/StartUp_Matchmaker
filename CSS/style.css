@@ -12,18 +12,23 @@ Front End Developer @GA in NYC
 }
 
 body {
-	margin: 0 auto;
-  	font-family: 'Source Sans Pro', sans-serif;
+  	/*font-family: 'Source Sans Pro', sans-serif;
 	/*font-family: 'Merriweather', serif;
 	font-family: 'Oswald', sans-serif;*/
 }
 
-header {
+header h1 {
 	background-color: #000;
-}
-
-h1 {
 	font-family: 'Merriweather', serif;
 	font-size: 30px;
 	font-weight: 700;
+	color: #fdf731;
+	margin: 0px;
+	padding: 20px;
+}
+
+nav {
+	float:right;
+	list-style:none;
+	margin: 20px 50px 10px 50px;
 }
