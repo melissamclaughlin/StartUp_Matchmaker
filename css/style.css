@@ -173,7 +173,7 @@ h6 {
 	font-weight: 700;
 	font-size: 20px;
 	color: #000;
-	padding: 5px;
+	padding: 15px;
 }
 
 .button1 {
@@ -247,8 +247,8 @@ h6 {
  	width: 260px;
  	height: 200px;
   	float: left;
-  	margin: 40px 10px 40px 10px;
-  	padding-right: 50px;
+  	margin: 40px 10px 40px 40px;
+  	padding-left: 60px;
 }
 
 .column3 p {
